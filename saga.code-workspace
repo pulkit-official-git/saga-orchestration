@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../saga-choreography"
+		},
+		{
+			"path": "../two-phase-commit"
+		},
+		{
+			"path": "../two-phase-commit-manual"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}

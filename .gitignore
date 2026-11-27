@@ -1,0 +1,6 @@
+# Project exclude paths
+/services/common-dtos/target/
+/services/delivery-service/target/
+/services/inventory-service/target/
+/services/order-service/target/
+/services/payment-service/target/
